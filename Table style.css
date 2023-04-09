@@ -1,0 +1,32 @@
+.table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th,td,tr{
+    background-color: burlywood;
+    border: transparent;
+    font-style: inherit;
+    border-radius: 5px;
+}
+
+.sno{
+    background-color: red;
+    font-size: medium;
+}
+
+
+.name{
+    background-color: red;
+    font-size: medium;
+}
+
+.roll{
+    background-color: red;
+    font-size: medium;
+}
+
+.sec{
+    background-color: red;
+    font-size: medium;
+}
